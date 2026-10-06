@@ -1,2 +1,2 @@
 # COQUEREAU_Lea_Portfolio
-Geoscience Engineer &amp; GIS Developer with 3 years of experience. I use Python and QGIS to build concrete field tools for construction and geology. Passionate about data visualization and machine learning to unlock the full potential of environmental and spatial data.
+Field-first engineer turning observations into useful data, GIS workflows and practical tools. Comfortable working in demanding environments (from mountains and rainforests to deserts and major infrastructure sites) and connecting field data, databases and mapping into usable solutions
